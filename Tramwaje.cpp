@@ -90,5 +90,5 @@ Wejście
 Wyjście
 TAK
 NIE
-All of the commented text is a assignment content from XVII Tydzień Informatyki in 8LO in Poznań
+All of the commented text is an assignment content from XVII Tydzień Informatyki in 8LO in Poznań
 */

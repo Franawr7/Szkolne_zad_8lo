@@ -34,4 +34,4 @@ int main()
     }
 }
 // binary search on unsorted array
-// made with use of maps
+// made with maps
